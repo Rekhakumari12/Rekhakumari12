@@ -9,7 +9,7 @@ const about =()=> {
   console.log("I love fiction");
   console.log("I'm big Harry Potter Fan");
 }
-about();```
+```
 
 
 - 🔭 I’m currently working on Something cool!
