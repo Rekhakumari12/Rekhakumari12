@@ -3,7 +3,7 @@
 
 ```javascript
 var name = 'Rekha'
-var whoIm = `I'm ${name}, Fullstack developer`
+var whoMI = `I'm ${name}, Fullstack developer`
 const about =()=> {
   console.log("I'm eager to know about new technologies");
   console.log("I love fiction");
