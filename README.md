@@ -14,8 +14,9 @@ const about =()=> {
 
 - 🔭 I’m currently working on Something cool!
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on .
+- 👯 I’m looking to collaborate on javascript
 - 💬 Ask me about my project 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rekha-kumari-905a60164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 How to reach me:   <a href="https://www.linkedin.com/in/rekha-kumari-905a60164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RekhaKu7)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm always hungry
+
