@@ -7,7 +7,7 @@ var whoMI = `I'm ${name}, Fullstack developer`
 const about =()=> {
   console.log("I'm eager to know about new technologies");
   console.log("I love fiction");
-  console.log("I'm big Harry Potter Fan");
+  console.log("I'm big fan of Harry Potter");
 }
 ```
 
