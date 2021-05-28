@@ -1,17 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3>Welcome to my page!</h3>
 
-```javascript
-var name = 'Rekha'
-var whoMI = `I'm ${name}, Fullstack developer`
-const about =()=> {
-  console.log("I'm eager to know about new technologies");
-  console.log("I love fiction");
-  console.log("I'm big fan of Harry Potter");
-}
-```
-
-
 - 🔭 I’m currently working on Something cool!
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Javascript
